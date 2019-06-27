@@ -41,7 +41,7 @@ p{
 	width:100%;
 	background: #162344;
 	padding: 30px 0;
-	position: absolute;
+	position: fixed;
 	z-index: 7;
 }
 
